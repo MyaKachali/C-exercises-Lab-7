@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// This function swaps two integers using reference parameters
+
 void SwapNumbers(int& a, int& b) {
     int temp = a;
     a = b;
